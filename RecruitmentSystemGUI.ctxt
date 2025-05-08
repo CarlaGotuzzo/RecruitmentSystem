@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=RecruitmentSystemGUI
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment10.params=
+comment10.target=void\ clearFields()
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment12.params=
+comment12.target=void\ run()
+comment2.params=
+comment2.target=RecruitmentSystemGUI()
+comment3.params=
+comment3.target=void\ makeFrame()
+comment4.params=
+comment4.target=void\ addFullTimeStaff()
+comment5.params=
+comment5.target=void\ addPartTimeStaff()
+comment6.params=
+comment6.target=void\ setSalary()
+comment7.params=
+comment7.target=void\ setWorkingShifts()
+comment8.params=
+comment8.target=void\ terminatePartTimeStaff()
+comment9.params=
+comment9.target=void\ displayStaffInfo()
+numComments=13
